@@ -1,4 +1,2 @@
-## Test
-
-Please checkout my favorite <a href="http://www.google.com" target="_blank">
-Search Engine</a> and enjoy yourself on my GitHub Repository.
+# Depot App
+Please see [http://blazing-autumn-894.heroku.com](http://blazing-autumn-894.heroku.com) for my first Heroku-app.

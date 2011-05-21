@@ -7,6 +7,10 @@
 # Visit http://www.pragmaticprogrammer.com/titles/rails4 for more book information.
 #---
 Depot::Application.routes.draw do
+  resources :carts
+
+  resources :line_items
+
   get "store/index"
 
   resources :products
