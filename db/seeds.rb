@@ -8,6 +8,7 @@
 #---
 # encoding: utf-8
 Product.delete_all
+
 Product.create(:title => 'Web Design for Developers',
   :description => 
     %{<p>
@@ -18,10 +19,11 @@ Product.create(:title => 'Web Design for Developers',
         We'll also walk you through some common Photoshop and CSS techniques
         and work through a web site redesign, taking a new design from concept
         all the way to implementation.
-      </p>},
+      <p>},
   :image_url =>   '/images/wd4d.jpg',    
   :price => 42.95)
 # . . .
+
 Product.create(:title => 'Programming Ruby 1.9',
   :description =>
     %{<p>
