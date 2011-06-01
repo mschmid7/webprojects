@@ -1,2 +1,2 @@
 # Depot App
-Please see [http://high-mist-291.heroku.com/](http://high-mist-291.heroku.com//products) for my first Heroku-app.
+Please see [http://blazing-autumn-894.heroku.com/ ](http://blazing-autumn-894.heroku.com/) for my first Heroku-app.
